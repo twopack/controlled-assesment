@@ -17,3 +17,5 @@ tests
 
 import sybols (JPY, USD, GBP, EUR)
 
+
+task 2
