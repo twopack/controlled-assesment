@@ -19,3 +19,18 @@ import sybols (JPY, USD, GBP, EUR)
 
 
 task 2
+
+
+That...
+Hold names, adresses and telephone numbers for friends, family and business contacts.
+
+A surname and first name
+
+Date of birth
+
+Email adress
+
+Create a progam to search this data file:
+by surname to retrieve and display the details for a contact
+
+by date of birth to retrieve and display all contacts with a birthday in a particular month
