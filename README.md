@@ -1,12 +1,12 @@
 controlled-assesment
 ====================
-Design 
-======
 
-Task one
+##Design 
 
-That ...
-========
+
+###Task one
+
+####That ...
 
 * figure shown should be 2 decimal places
 * Has exchange rates that can be regularly changhed by the user
@@ -14,17 +14,16 @@ That ...
 
 * curreney required: British sterling -GBP- Us Dollar -USD- Japanese Yen -JGY- Euro -EUR-
 
-tests
-=====
+####tests
+
 
 * import sybols (JPY, USD, GBP, EUR)
 
 
-task 2
-======
+###task 2
 
-That...
-=======
+
+####That...
 
 * Hold names, adresses and telephone numbers for friends, family and business contacts.
 
@@ -34,8 +33,8 @@ That...
 
 * Email adress
 
-Create a progam to search this data file:
-=========================================
+####Create a progam to search this data file:
+
 
 * by surname to retrieve and display the details for a contact
 
